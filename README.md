@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**evanhongo/evanhongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,svelte,nodejs,python,go,bash,express,graphql,nginx,mysql,redis,mongodb,rabbitmq,ansible,grafana,prometheus,docker,aws&theme=dark&perline=6)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎 Demo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=react-custom-component)](https://github.com/evanhongo/react-custom-component)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=powerful-meowbot)](https://github.com/evanhongo/powerful-meowbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=ansible-playbook)](https://github.com/evanhongo/ansible-playbook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=lightdm-theme-gradient)](https://github.com/evanhongo/lightdm-theme-gradient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=cz-github-convention)](https://github.com/evanhongo/cz-github-convention)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=dotfiles)](https://github.com/evanhongo/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=distributed-tracing-demo)](https://github.com/evanhongo/distributed-tracing-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanhongo&repo=nodejs-express-boilerplate)](https://github.com/evanhongo/nodejs-express-boilerplate)
+
+## 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
