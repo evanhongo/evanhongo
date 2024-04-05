@@ -2,7 +2,7 @@
 
 ## 🛠️ My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,svelte,nodejs,python,go,bash,express,nextjs,electron,graphql,nginx,mysql,redis,mongodb,rabbitmq,kafka,ansible,grafana,prometheus,docker,aws&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwindcss,js,ts,react,nextjs,vue,svelte,nodejs,express,electron,python,fastapi,go,cs,dotnet,lua,bash,graphql,nginx,mysql,postgres,redis,mongodb,rabbitmq,kafka,ansible,grafana,prometheus,docker,aws,md,vscode,notion&theme=dark&perline=6)
 
 ## 😎 Demo
 
